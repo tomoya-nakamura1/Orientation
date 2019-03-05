@@ -1,0 +1,7 @@
+255 255 255 White
+155 161 157 Gray
+228 205 158 Tan
+208 145 104 Flesh
+88 57 39 Brown
+255 69 0 Orange
+0 0 0 Black

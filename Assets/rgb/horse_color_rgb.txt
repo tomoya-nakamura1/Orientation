@@ -1,0 +1,6 @@
+255 255 255 White
+190 51 56 Bright-Red
+239 197 24 Bright-Yellow
+25 23 26 Black
+239 117 52 Bright-Orange
+89 30 21 Reddish-Brown

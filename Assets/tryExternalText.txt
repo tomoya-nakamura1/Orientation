@@ -1,0 +1,4 @@
+﻿dataPath:C:/Users/sato/Documents/Unity/SimpleMeshReader/Assets
+persistentDataPath:C:/Users/sato/AppData/LocalLow/DefaultCompany/SimpleMeshReader
+C#あいうえお本日は
+
